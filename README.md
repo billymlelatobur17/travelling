@@ -31,7 +31,7 @@
 
 
 ## Screenshots
-![Website screenshot](Screenshot 2022-08-28 182119.png)
+![Website screenshot](/Screenshot 2022-08-28 182119.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
