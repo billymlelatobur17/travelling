@@ -5,36 +5,29 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
 * [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 <!-- * [License](#license) -->
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- This project is a travel package website where users can choose the travel packages available and purchased to be able to travel to the tours provided on this website
+- This website is made to make it easier for tourists to enjoy a good vacation and get to know more about existing tours2
+- this website I created to make it easier for tourists to travel
+- I created this project to add to my portfolio
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Laravel - version 9.19
+- PHP - version 8.0.2
+- Bootstrap - version 4.3.1
+- Javascript/JQuery - version 3.6.0
+- Gigjlo - version 2.0.0 
+- AnimatedScroll JS - version 1.0.7
+- Retina JS - version 1.3.0
+- X-Zoom JS - version 1.0.15
 
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
 
 
 ## Screenshots
